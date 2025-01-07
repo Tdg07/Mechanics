@@ -22,3 +22,4 @@ public class PlayerController : MonoBehaviour
         playerRb.AddForce(focalPoint.transform.forward * forwardInput * speed);
     }
 }
+        
